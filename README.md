@@ -3,7 +3,7 @@
 I'm Urvashi Ramdasani, a Computer Science and Engineering Undergrad. I'm a research enthusiast and I love exploring new domains. 
 
 
-- 🔭 I’m currently working as Machine Learning Intern at CodeTrophs and as Participant at Script Winter of Code (SWOC).
+- 🔭 I’m currently working as Participant at GirlScript Summer of Code (GSSOC) and cross Winter of Code (crossWoC).
 - 🌱 I’m currently learning Natural Language Processing and Algorithms.
 - 👯 I’m looking to collaborate on Machine Learning, Deep Learning, and Web Development Projects.
 - :woman: You can connect with me on -
