@@ -3,12 +3,12 @@
 I'm Urvashi Ramdasani, a Computer Science and Engineering Undergrad. I'm a research enthusiast and I love exploring new domains. 
 
 
-- 🔭 I’m currently working as Participant at GirlScript Summer of Code (GSSOC) and cross Winter of Code (crossWoC).
+- 🔭 I'm actively looking for internships and jobs in the fields of Software Development and Machine Learning.
 - 🌱 I’m currently learning Natural Language Processing and Algorithms.
 - 👯 I’m looking to collaborate on Machine Learning, Deep Learning, and Web Development Projects.
 - :woman: You can connect with me on -
 
-<a href="https://www.instagram.com/urvashi.ramdasani/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.linkedin.com/in/urvashi-ramdasani-91034a175/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/urvashi.ramdasani/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.linkedin.com/in/urvashi-ramdasani-91034a175/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/URamdasani"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://pin.it/2g3de6vvpo2m5d"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"></a> <a href="https://www.researchgate.net/profile/Urvashi_Ramdasani"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"></a> 
 
 - :rocket: Skills
 
