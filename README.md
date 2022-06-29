@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Urvashi Ramdasani, a Computer Science and Engineering Graduate from Nirma University, Ahmedabad. I am a research enthusiast and I love exploring new domains. I will be joining Walmart Global Tech India as a Software Development Engineer. 
+I am Urvashi Ramdasani, a Computer Science and Engineering Graduate from Nirma University, Ahmedabad. I am a research enthusiast and I love exploring new domains. I am working at Walmart Global Tech India as a Software Development Engineer II. 
 
 
 - :book: I am a Bibliophile. I like reading books of all genres. 
